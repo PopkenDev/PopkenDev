@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi guys! 🙋‍♂️
 
-<!--
-**PopkenDev/PopkenDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Herman from The Netherlands. I am a "self-proclaimed" full-stack (MERN) developer. 
+I own my own marketing agency and I work a full-time job as a froklift=operator (hope I can scrap that of my job-list soon😄)
 
-Here are some ideas to get you started:
+My stack is: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐  React/Next.js
+⭐  Node.js 
+⭐  Express.js
+⭐  MongoDB
+
+If you have any questions regarding programming or other stuff, do not hestitate to PM me!🙏
+
+Have a wonderfull day!
+
+Love you ❣️
+
