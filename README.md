@@ -1,5 +1,3 @@
----
-
 Hi guys! 🙋‍♂️
 
 I am Herman from The Netherlands. I am a "self-proclaimed" full-stack (MERN) developer. 
