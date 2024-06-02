@@ -19,3 +19,4 @@ Love you ❣️
 <a href="https://www.popkenwebsolutions.com">Visit my agency</a>
 ---
 [![GitHub Streak](https://streak-stats.demolab.com/?user=PopkenDev&theme=dark)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PopkenDev$theme=dark)]
