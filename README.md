@@ -18,6 +18,6 @@ Love you ❣️
 
 <a href="https://www.popkenwebsolutions.com">Visit my agency</a>
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PopkenDev&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PopkenDev&theme=dark) <br/>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=PopkenDev&theme=dark)](https://git.io/streak-stats)
 ![Herman's GitHub stats](https://github-readme-stats.vercel.app/api?username=PopkenDev&theme=dark)
